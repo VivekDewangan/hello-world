@@ -2,4 +2,5 @@
 Learn GIT
 
 Welcome to GIT learning
-Nwew line is added for merge
+
+New line is added for merge
