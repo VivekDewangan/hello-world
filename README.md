@@ -3,4 +3,4 @@ Learn GIT
 
 Welcome to GIT learning
 
-New line is added for merge
+Deleted existing text and this new text to main branch
